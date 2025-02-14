@@ -2,14 +2,14 @@
 
 Hi, I'm **Mayur Rajendra Waghchoure** – an AI Engineer specializing in autonomous systems, machine learning, and robotics. I develop innovative solutions ranging from advanced ADAS features to deep learning projects for autonomous vehicles.
 
-![Welcome Image](images/photo.jpeg)
+![Welcome Image](images/photo.jpeg){: width="300" height="200" }
 
 ## About Me
 
 With hands-on experience in both industry and research, I thrive on solving complex challenges and creating impactful technology. My work spans consulting, content creation, and academic research, making me well-versed in developing robust, scalable solutions for modern transportation and AI.
 
 <video width="640" height="360" controls>
-  <source src="videos/myvideo.mp4" type="video/mp4">
+  <source src="videos/Final_output_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
