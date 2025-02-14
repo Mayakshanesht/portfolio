@@ -2,7 +2,8 @@
 
 Hi, I'm **Mayur Rajendra Waghchoure** – an AI Engineer specializing in autonomous systems, machine learning, and robotics. I develop innovative solutions ranging from advanced ADAS features to deep learning projects for autonomous vehicles.
 
-![Welcome Image](images/photo.jpeg){: width="300" height="200" }
+<img src="images/photo.jpeg" alt="Welcome Image" width="300" height="200">
+
 
 ## About Me
 
@@ -13,7 +14,7 @@ With hands-on experience in both industry and research, I thrive on solving comp
   Your browser does not support the video tag.
 </video>
 
-Master's Thesis - Learning-Based Maneuver Detection from multi-view camera data for extraction of critical scenarios from real world datasets (e.g., Nuscenes) for faster and robust verification and validation of Autonomous Driving Systems.
+**Master's Thesis output** - Learning-Based Maneuver Detection from multi-view camera data for extraction of critical scenarios from real world datasets (e.g., Nuscenes) for faster and robust verification and validation of Autonomous Driving Systems.
 
 ## Work Experience
 
