@@ -7,7 +7,10 @@ Hi, I'm **Mayur Rajendra Waghchoure** – an AI Engineer specializing in autonom
 
 ## About Me
 
-With hands-on experience in both industry and research, I thrive on solving complex challenges and creating impactful technology. My work spans consulting, content creation, and academic research, making me well-versed in developing robust, scalable solutions for modern transportation and AI.
+With hands-on experience in both industry and research, I am an innovative AI/ML Engineer with 4+ years of experience in autonomous systems, deep learning, and 
+data pipelines. Proven expertise in building end-to-end ML systems, from research to production
+grade deployment. Skilled in MLOps, cloud technologies, and big data processing, with a passion for 
+delivering scalable solutions for autonomous driving and robotics..
 
 <video width="640" height="360" controls>
   <source src="videos/Final_output_video.mp4" type="video/mp4">
