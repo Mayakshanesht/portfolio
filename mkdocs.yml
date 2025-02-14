@@ -1,0 +1,13 @@
+site_name: "Mayur's Portfolio"
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Projects: project.md
+  - Research Publications: research_publications.md
+  - Blog:
+      - Blog Home: blogs/index.md
+      - My First Blog Post: blogs/master_thesis.md
+  - CV: cv.md
+  - Contact: contact.md
