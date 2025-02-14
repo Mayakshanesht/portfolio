@@ -17,6 +17,8 @@ delivering scalable solutions for autonomous driving and robotics..
   Your browser does not support the video tag.
 </video>
 ***Maneuver detected*** : Overtake Left - An ego car is overtaken by truck from left side as seen from above video.
+
+
 **Master's Thesis output** - Learning-Based Maneuver Detection from multi-view camera data for extraction of critical scenarios from real world datasets (e.g., Nuscenes) for faster and robust verification and validation of Autonomous Driving Systems.
 
 ## Work Experience
