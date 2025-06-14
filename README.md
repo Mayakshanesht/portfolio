@@ -9,6 +9,15 @@ Welcome to my project portfolio! Below is a collection of projects I’ve worked
 - **Description**: A complete CI/CD pipeline demonstration for automating builds and deployments.
 - **GitHub Repo**: [ci_cd_demo](https://github.com/Mayakshanesht/ci_cd_demo.git)
 
+### 1. **Lidar Lidar Registration and ROS2 implementation**
+- **Description**: Executed projects on lidar-camera calibration, multi-lidar registration (using GICP+ICP), and deep learning-based sensor fusion.    Designed tutorials on perception systems, SLAM, and 3D deep learning.
+- **GitHub Repo**: [Multi-LiDAR Registration](https://github.com/Mayakshanesht/multi_lidars_calibration.git)
+**Multi-layered ICP registration:**  
+<img src="videos/output_icp.gif" width="640" height="360" alt="ICP Registration">
+
+**Kiss ICP based SLAM:**  
+<img src="videos/output_kiss_icp.gif" width="640" height="360" alt="Kiss ICP SLAM">
+
 ### 1. **3D Object Detection (Traditional Methods)**
 - **Description**: Traditional methods of 3D object detection using **RANSAC**, **DBSCAN**, and **PCA**.
 - **GitHub Repo**: [3DLidar_ObjectDetection_Ransac_DBSCAN_PCA](https://github.com/Mayakshanesht/3DLidar_ObjectDetection_Ransac_DBSCAN_PCA)
