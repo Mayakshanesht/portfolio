@@ -1,5 +1,10 @@
 # Welcome to Mayur's Portfolio
 
+<video width="640" height="360" controls>
+    <source src="videos/4d_perception1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
 Hi, I'm **Mayur Rajendra Waghchoure** – an AI Engineer specializing in autonomous systems, machine learning, and robotics. I develop innovative solutions ranging from advanced ADAS features to deep learning projects for autonomous vehicles.
 
 <img src="images/photo.jpeg" alt="Welcome Image" width="300" height="200">
@@ -23,11 +28,43 @@ delivering scalable solutions for autonomous driving and robotics..
 
 ## Work Experience
 
-- **ADAS System Consultant**, Dorle Controls Pvt Ltd (Client – Battle Motors, USA) | *Aachen, Germany – Dec 2024 to Present*  
+- **Autonomous Driving Software Engineer**, Deontic.ai (Leuven,Belgium) | *Leuven, Belgium – Apr 2025 to Present*  
+  I am involved in developing the state of art approach to revolutinize the autonomous driving testing using NLP and ASAM OpenX standard, and ODD based scenario generation strategies. I am involved in the task to integrate the sentence boundary detection, semantic chunk detection from the detected text from OCR read pdf files, generating the Model based system engineering compatible requirements and ODD attributes, and eventually generate the scenario suite using fine-tuned LLM models for the scenario generation and safety evaluations.
+
+- **AI Content Creator**, Think Autonomous (Paris, France) | *Remote – Jan 2025 to Present*  
+  1. Lidar-Lidar Registration: Executed projects on lidar-camera calibration, multi-lidar registration (using GICP+ICP), and deep learning-based sensor fusion. Designed tutorials on perception systems, SLAM, and 3D deep learning.
+  
+  Multi-layered ICP registration:
+  <video width="640" height="360" controls>
+    <source src="videos/output_icp.gif" type="image/gif">
+    Your browser does not support the video tag.
+  </video>
+  
+  Kiss ICP based SLAM:
+  <video width="640" height="360" controls>
+    <source src="videos/output_kiss_icp.gif" type="image/gif">
+    Your browser does not support the video tag.
+  </video>
+  
+  2. 4D Perception: Excuted the project on 4D perception, which involves object detection with OpenPcdet framework followed by 3D Associationa and Multi object tracking, and visualized it with rerun tool.
+ 
+
+  <img src="images/WhatsApp Image 2025-06-15 at 00.43.44.jpeg" alt="4D perception" width="300" height="200">
+  
+
+  <video width="640" height="360" controls>
+    <source src="videos/4d_perception_rerun.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  
+
+  3. 3D Reconstruction DLC
+
+  4. Advanced SLAM
+
+- **ADAS System Consultant**, Dorle Controls Pvt Ltd (Client – Battle Motors, USA) | *Aachen, Germany – Dec 2024 to Feb 2025*  
   Developed system requirements, SysML diagrams, and test plans for 7 ADAS features. Implemented features such as Automatic High Beam, Lane Departure Warning, and Highway Departure/Braking systems.
 
-- **AI Content Creator**, Think Autonomous | *Remote – Jan 2025 to Present*  
-  Executed projects on lidar-camera calibration, multi-lidar registration (using GICP+ICP), and deep learning-based sensor fusion. Designed tutorials on perception systems, SLAM, and 3D deep learning.
 
 - **Master Thesis Student**, Siemens Digital Software Industries | *Leuven, Belgium – May 2024 to Nov 2024*  
   Developed a learning-based critical maneuver detection framework using the nuScenes dataset. Trained GNN and Transformer architectures and created trajectory/graph-based datasets to extract edge-case driving scenarios.
