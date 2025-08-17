@@ -68,6 +68,11 @@ Welcome to my project portfolio! Below is a collection of projects I’ve worked
 - **Google Colab**: [BEV Perception](https://colab.research.google.com/drive/1VWsqo5fT3SS6SZL7Xf2Y1ZdM53xZ9Nax?usp=sharing)
 - **PPT**:[PELR Transformer Project](https://www.canva.com/design/DAFttO36_lw/5KLLUknyPWy0QMGtdd8hiw/edit?utm_content=DAFttO36_lw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+### 15. Permanent Magnet Synchronous Motor (PMSM) Control
+- **Description**: PMSM motor modelling and control with field weakning.
+- **GitHub Repo**: [BEV Perception](https://github.com/Mayakshanesht/pmsm_control_field_weakning.git)
+
+
 ---
 
 ## Additional Information
