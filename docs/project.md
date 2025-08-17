@@ -70,7 +70,7 @@ Welcome to my project portfolio! Below is a collection of projects I’ve worked
 
 ### 15. Permanent Magnet Synchronous Motor (PMSM) Control
 - **Description**: PMSM motor modelling and control with field weakning.
-- **GitHub Repo**: [BEV Perception](https://github.com/Mayakshanesht/pmsm_control_field_weakning.git)
+- **GitHub Repo**: [PMSM Model and Control](https://github.com/Mayakshanesht/pmsm_control_field_weakning.git)
 
 
 ---
