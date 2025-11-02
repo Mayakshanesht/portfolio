@@ -93,11 +93,6 @@ delivering scalable solutions for autonomous driving and robotics..
 - **Curriculum Vitae:** Download my CV for a comprehensive view of my professional journey. [View CV](cv.md)
 - **Contact:** Get in touch through my dedicated contact page. [Contact Me](contact.md)
 
-## Featured Project
-
-*Example: CI/CD Pipeline for Autonomous Systems*  
-A demonstration project showcasing a complete CI/CD pipeline that automates builds and deployments for complex systems.  
-[Learn more about this project](project.md#0-cicd-project)
 
 ---
 
